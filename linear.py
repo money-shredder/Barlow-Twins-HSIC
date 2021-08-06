@@ -10,7 +10,6 @@ from torchvision.datasets import CIFAR10
 from tqdm import tqdm
 
 import utils
-1
 import torchvision
 
 class Net(nn.Module):
